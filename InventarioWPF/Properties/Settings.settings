@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="InventarioWPF.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CellsForPages" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="ConsultaEmp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SELECT Empleados.Id_Emp, Empleados.C_R, Empleados.Nombre, Empleados.Gener, Departamento.Nombre AS Dep, Empleados.Dir, Empleados.Telf, Empleados.Movil, Empleados.Email, Empleados.F_Nac, Empleados.Entry, Empleados.Modify, Empleados.Pict, Empleados.Oculto FROM (Empleados INNER JOIN Departamento ON Departamento.Id_Dep = Empleados.Id_Dep) </Value>
+    </Setting>
+    <Setting Name="ConsultaInv" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SELECT Productos.Id_Pro, Productos.Code, Productos.Descrip, Categorias.Nombre AS Categoria, Productos.Cost, Productos.Price, Productos.Stock, Proveedores.Nombre AS Proveedor, Productos.Notes, Productos.Entry, Productos.Modify, Productos.Pict, Productos.Oculto FROM ((Productos INNER JOIN Categorias ON Categorias.Id_Cat = Productos.Id_Cat) INNER JOIN Proveedores ON Proveedores.Id_Sup = Productos.Id_Sup)</Value>
+    </Setting>
+    <Setting Name="ConsultaPro" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SELECT * FROM Proveedores</Value>
+    </Setting>
+    <Setting Name="ConsultaReg" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SELECT R_Sesion.Id, Empleados.Nombre AS Empleado, R_Sesion.Entry, R_Sesion.Exit FROM R_Sesion INNER JOIN Empleados ON Empleados.Id_Emp = R_Sesion.Id_Emp</Value>
+    </Setting>
+    <Setting Name="ConsultaVen" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SELECT Ventas.Id_Ven, Productos.Descrip AS Producto, Ventas.Total, Ventas.Stock, Empleados.Nombre AS Empleado, Ventas.Fecha FROM ((Ventas INNER JOIN Productos ON Ventas.Id_Pro = Productos.Id_Pro) INNER JOIN Empleados ON Empleados.Id_Emp = Ventas.Id_Emp)</Value>
+    </Setting>
+    <Setting Name="ConsultaDep" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SELECT * FROM Departamento</Value>
+    </Setting>
+    <Setting Name="RecordUser" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UserSave" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

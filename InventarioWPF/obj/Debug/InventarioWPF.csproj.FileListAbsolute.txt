@@ -1,0 +1,132 @@
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\InventarioWPF.csprojAssemblyReference.cache
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\MainWindow.g.cs
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\App.g.cs
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\InventarioWPF_MarkupCompile.cache
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\InventarioWPF_MarkupCompile.lref
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\InventarioWPF.exe.config
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\InventarioWPF.exe
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\InventarioWPF.pdb
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\LiveCharts.dll
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\LiveCharts.pdb
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\LiveCharts.xml
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\App.baml
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\MainWindow.baml
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\InventarioWPF.g.resources
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\InventarioWPF.Properties.Resources.resources
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\InventarioWPF.csproj.GenerateResource.cache
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\InventarioWPF.csproj.CoreCompileInputs.cache
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\InventarioWPF.csproj.CopyComplete
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\InventarioWPF.exe
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\InventarioWPF.pdb
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\Dragablz.dll
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\Dragablz.pdb
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\Dragablz.xml
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\Login.g.cs
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\Login.baml
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Inventario.g.cs
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Inventario.baml
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Proveedores.g.cs
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Proveedores.baml
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Ventas.g.cs
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Ventas.baml
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Empleados.g.cs
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Empleados.baml
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Reg_Sesiones.g.cs
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Reg_Sesiones.baml
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Cargos.g.cs
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Cargos.baml
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Reporte.g.cs
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Reporte.baml
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\Reportes\ReportInventario.g.cs
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\Reportes\ReportInventario.baml
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\RdlCompile.cache
+C:\Users\hugo_\source\repos\InventarioWPF\InventarioWPF\obj\Debug\RdlCompile.compiled
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\InventarioWPF.exe.config
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\InventarioWPF.exe
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\InventarioWPF.pdb
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\Dragablz.dll
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\LiveCharts.dll
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\LiveCharts.Wpf.dll
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\MaterialDesignColors.dll
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\Dragablz.pdb
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\Dragablz.xml
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\LiveCharts.pdb
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\LiveCharts.xml
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\LiveCharts.Wpf.pdb
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\LiveCharts.Wpf.xml
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\MaterialDesignColors.pdb
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\InventarioWPF.csprojAssemblyReference.cache
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\Login.g.cs
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\MainWindow.g.cs
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\Reportes\ReportInventario.g.cs
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Cargos.g.cs
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Proveedores.g.cs
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Empleados.g.cs
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Reg_Sesiones.g.cs
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Reporte.g.cs
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Ventas.g.cs
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Inventario.g.cs
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\App.g.cs
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\InventarioWPF_MarkupCompile.cache
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\InventarioWPF_MarkupCompile.lref
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\App.baml
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\Login.baml
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\MainWindow.baml
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\Reportes\ReportInventario.baml
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Cargos.baml
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Proveedores.baml
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Empleados.baml
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Reg_Sesiones.baml
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Reporte.baml
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Ventas.baml
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\Ventanas\Inventario.baml
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\InventarioWPF.g.resources
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\InventarioWPF.Properties.Resources.resources
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\InventarioWPF.csproj.GenerateResource.cache
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\InventarioWPF.csproj.CoreCompileInputs.cache
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\InventarioWPF.csproj.CopyComplete
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\InventarioWPF.exe
+E:\Visual Studio\source\repos\SistemaFinal\InventarioWPF\InventarioWPF\obj\Debug\InventarioWPF.pdb
